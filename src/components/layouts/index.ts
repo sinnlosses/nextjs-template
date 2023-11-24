@@ -1,1 +1,1 @@
-// レイアウト
+export { MainLayout } from "./main-layout"

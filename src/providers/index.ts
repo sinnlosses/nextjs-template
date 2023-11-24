@@ -1,2 +1,2 @@
 // アプリケーションのすべてのプロバイダー
-export { ToasterProvider } from "./ToasterProvider"
+export { AppProvider } from "./app-provider"

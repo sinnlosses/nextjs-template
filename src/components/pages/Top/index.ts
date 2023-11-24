@@ -1,1 +1,1 @@
-export { Top } from "./Top"
+export { TopContainer } from "./top-container"

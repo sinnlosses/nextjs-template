@@ -1,5 +1,5 @@
-import { Top } from "@/components/pages/Top"
+import { TopContainer } from "@/components/pages/Top"
 
 export default function TopPage() {
-  return <Top />
+  return <TopContainer />
 }
