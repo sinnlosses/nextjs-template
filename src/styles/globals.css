@@ -1,15 +1,14 @@
 :root {
   --max-width: 1100px;
-  --font-mono: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono",
-    "Roboto Mono", "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro",
-    "Fira Mono", "Droid Sans Mono", "Courier New", monospace;
+  --font-mono: ui-monospace, Menlo, Monaco, "Cascadia Mono", "Segoe UI Mono", "Roboto Mono",
+    "Oxygen Mono", "Ubuntu Monospace", "Source Code Pro", "Fira Mono", "Droid Sans Mono",
+    "Courier New", monospace;
 
   --foreground-rgb: #000;
   --background-rgb: #ddeefc;
 
-  --fontsize-caption: 14px;
-  --fontsize-normal: 18px;
-  --fontsize-large: 27px;
+  --fontsize-primary: 18px;
+  --fontsize-secondary: 14px;
 
   --spacing-xxs: 4px;
   --spacing-xs: 8px;
